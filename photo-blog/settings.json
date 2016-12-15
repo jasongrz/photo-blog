@@ -1,0 +1,10 @@
+{
+  "public": {
+    "recordsPerPage" : "5"
+  },
+  "private": {
+    "AWSAccessKeyId" : "AKIAJ5HNDMFRVH27NEPQ",
+    "AWSSecretAccessKey" : "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",
+    "AWSBucket" : "jasons-photo-blog"
+  }
+}
